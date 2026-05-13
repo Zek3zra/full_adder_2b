@@ -10,7 +10,7 @@ z2
 cModel Technology
 dC:/Users/Jerow Amelo/Documents/Exam_Practical/prelim_exam
 vfull_adder
-Z0 !s110 1778122900
+Z0 !s110 1778130029
 !i10b 1
 !s100 58Yk[dCQ]1jHJK7EI9bJ@0
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -20,13 +20,13 @@ Z3 dC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b
 w1778119474
 8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder.v
 FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder.v
-!i122 75
+!i122 88
 Z4 L0 1 28
 Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1778122900.000000
+Z6 !s108 1778130029.000000
 !s107 C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder.v|
 !i113 1
@@ -40,10 +40,10 @@ R1
 I0laKcUQ26QeSH=Y<]>:LZ2
 R2
 R3
-w1778121342
+w1778129223
 8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_2b.v
 FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_2b.v
-!i122 77
+!i122 90
 L0 1 29
 R5
 r1
@@ -52,6 +52,29 @@ r1
 R6
 !s107 C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_2b.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_2b.v|
+!i113 1
+R7
+R8
+vfull_adder_4b
+R0
+!i10b 1
+!s100 IgKb3VJ@KCP;_FYSz4m@83
+R1
+IF0Y;8><DjC2nX:FCodXCR2
+R2
+R3
+w1778129628
+8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_4b.v
+FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_4b.v
+!i122 92
+L0 1 47
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_4b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder_4b.v|
 !i113 1
 R7
 R8
@@ -66,13 +89,13 @@ R3
 w1778118124
 8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v
 FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v
-!i122 73
+!i122 86
 L0 16 25
 R5
 r1
 !s85 0
 31
-!s108 1778122899.000000
+!s108 1778130028.000000
 !s107 C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v|
 !i113 1
@@ -89,7 +112,7 @@ R3
 w1778120082
 8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder.v
 FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder.v
-!i122 76
+!i122 89
 L0 1 36
 R5
 r1
@@ -112,8 +135,8 @@ R3
 w1778122898
 8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v
 FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v
-!i122 78
-L0 1 32
+!i122 91
+Z9 L0 1 32
 R5
 r1
 !s85 0
@@ -121,6 +144,29 @@ r1
 R6
 !s107 C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v|
+!i113 1
+R7
+R8
+vtb_full_adder_4b
+R0
+!i10b 1
+!s100 aWF73CQ5:YYPXS<EI5`>j0
+R1
+I]BC6<HIda@OEa@c?:Dj]_0
+R2
+R3
+w1778130024
+8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_4b.v
+FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_4b.v
+!i122 93
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_4b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_4b.v|
 !i113 1
 R7
 R8
@@ -135,7 +181,7 @@ R3
 w1778118487
 8C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_half_adder.v
 FC:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_half_adder.v
-!i122 74
+!i122 87
 R4
 R5
 r1
