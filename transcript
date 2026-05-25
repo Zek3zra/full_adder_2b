@@ -1,14 +1,18 @@
-# Compile of half_adder.v was successful.
-# Compile of tb_half_adder.v was successful.
-# Compile of full_adder.v was successful.
-# Compile of tb_full_adder.v was successful.
-# Compile of full_adder_2b.v was successful.
-# Compile of tb_full_adder_2b.v failed with 1 errors.
-# 6 compiles, 1 failed with 1 error.
-# Compile of half_adder.v was successful.
-# Compile of tb_half_adder.v was successful.
-# Compile of full_adder.v was successful.
-# Compile of tb_full_adder.v was successful.
-# Compile of full_adder_2b.v was successful.
-# Compile of tb_full_adder_2b.v failed with 1 errors.
-# 6 compiles, 1 failed with 1 error.
+vsim work.tb_full_adder_4b
+# vsim work.tb_full_adder_4b 
+# Start time: 10:34:20 on May 15,2026
+# Loading work.tb_full_adder_4b
+# Loading work.full_adder_4b
+# Loading work.half_adder
+# Loading work.full_adder
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+run -all
+# End time: 10:44:22 on May 15,2026, Elapsed time: 0:10:02
+# Errors: 0, Warnings: 1

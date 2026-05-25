@@ -5,12 +5,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	full_adder_2b
 
-} {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v}
+} {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module half_adder
+-- Compiling module tb_full_adder_2b
 
 Top level modules:
-	half_adder
+	tb_full_adder_2b
 
 } {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/full_adder.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -19,19 +19,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	full_adder
 
-} {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_2b.v}
+} {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/half_adder.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module tb_full_adder_2b
+-- Compiling module half_adder
 
 Top level modules:
-	tb_full_adder_2b
-
-} {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_half_adder.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_half_adder.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module tb_half_adder
-
-Top level modules:
-	tb_half_adder
+	half_adder
 
 } {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -39,6 +32,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 
 Top level modules:
 	tb_full_adder
+
+} {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_half_adder.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_half_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_half_adder
+
+Top level modules:
+	tb_half_adder
 
 } {} {}} {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_4b.v} {1 {vlog -work work -stats=none {C:/Users/Jerow Amelo/Documents/FPGA_demo/T09/full_adder_2b/tb_full_adder_4b.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
